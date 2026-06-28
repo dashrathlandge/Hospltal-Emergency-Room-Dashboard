@@ -130,7 +130,7 @@ Test dashboard interactions and validate KPI values.
 ---
 
 ## 📸 Dashboard Preview
-"C:\users\administrator\Pictures\Screenshots\Screenshot 2026-06-20 195232.png"
+Screenshot 2026-06-20 194856.png
 Example:
 
 ```text
