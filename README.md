@@ -130,7 +130,8 @@ Test dashboard interactions and validate KPI values.
 ---
 
 ## 📸 Dashboard Preview
-Screenshot 2026-06-20 194856.png
+<img width="1631" height="654" alt="Screenshot 2026-06-20 195232" src="https://github.com/user-attachments/assets/f37769d6-ea86-4801-ab59-ddd753c26dd7" />
+
 Example:
 
 ```text
