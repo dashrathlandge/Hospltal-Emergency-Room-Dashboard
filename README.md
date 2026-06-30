@@ -131,6 +131,10 @@ Test dashboard interactions and validate KPI values.
 
 ## 📸 Dashboard Preview
 <img width="1631" height="654" alt="Screenshot 2026-06-20 195232" src="https://github.com/user-attachments/assets/f37769d6-ea86-4801-ab59-ddd753c26dd7" />
+<img width="1059" height="559" alt="chart jpg (2)" src="https://github.com/user-attachments/assets/b1de6035-404a-434b-bc46-2037ffd26bad" />
+<img width="1196" height="616" alt="chart jpg" src="https://github.com/user-attachments/assets/7aa031ec-1005-491d-8d9e-e5c24001a0ae" />
+<img width="1232" height="606" alt="chart jpg (3)" src="https://github.com/user-attachments/assets/b0ade6c3-e977-4ee9-84c8-50e977734a5c" />
+
 
 Example:
 
